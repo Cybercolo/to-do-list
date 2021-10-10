@@ -171,5 +171,5 @@ select{
 
 .select:hover::after {
     background: white;
-    color: blueviolet;
+    color: rgb(95, 226, 43);
 }
